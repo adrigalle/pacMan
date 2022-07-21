@@ -10,7 +10,7 @@ const pacArray = [
 
 // this variable defines what direction should PacMan go into:
 // 0 = left to right
-// 1 = right to left (reverse)
+// 1 = right to left (reverse) 
 var direction = 0;
 
 // This variable helps determine which PacMan image should be displayed. It flips between values 0 and 1
